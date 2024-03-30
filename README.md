@@ -1,7 +1,4 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Deividas Šipelis
-========================================================================================================================================
-
-Junior Web Developer
+Web Developer
 --------------------
 
 I'm Deividas Šipelis, a Junior Web Developer, embarking on a career in the world of programming. My journey began when I joined the University of Applied Sciences, where I immersed myself in the art of developing web applications. Throughout my academic journey, I honed my skills in utilizing cutting-edge technologies such as "React JS" and "Next JS", and I became proficient in working with databases like "Mongo DB" and "MySQL". One of the highlights of my academic journey was successfully defending my bachelor's thesis with the highest distinction. It was a testament to my commitment and passion for web development. But my learning journey didn't stop there. I'm continually pushing the boundaries of my knowledge, seeking new challenges, and staying up-to-date with the ever-evolving landscape of web application development. Beyond web development, I have a deep-seated interest in other facets of the IT industry, including computer service and maintenance and software preparation. My pursuit of knowledge and exploration in these areas further fuels my desire to be a well-rounded IT professional.
