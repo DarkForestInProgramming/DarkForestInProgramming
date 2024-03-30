@@ -9,8 +9,7 @@ I'm Deividas Šipelis, a Junior Web Developer, embarking on a career in the worl
 * 🌍  I'm based in Panevėžys, Lithuania
 * 🖥️  See my portfolio at [My website](http://sipelis-cv.vercel.app/)
 * ✉️  You can contact me at [sipelis.d@gmail.com](mailto:sipelis.d@gmail.com)
-* 🚀  I'm currently working on [Freelancinu.lt - forum for freelancers](http://github.com/DarkForestInProgramming/freelancinu)
-* 🧠  I'm learning Laravel, React
+* 🧠  I'm learning C#
 
 ### Skills
 
